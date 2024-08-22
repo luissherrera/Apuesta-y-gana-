@@ -1,3 +1,8 @@
+/*
+Luis eduardo herrera
+22/08/2024
+Se realizo codigo de apuesta y gana
+ */
 import java.util.Random;
 import java.util.Scanner;
 
